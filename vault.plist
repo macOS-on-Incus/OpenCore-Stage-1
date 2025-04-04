@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Files</key>
+	<dict>
+		<key>config.plist</key>
+		<data>AtrbjBHNn681AvJSPXe1AYNy2T9KPJawTY2XlczbhZ8=</data>
+		<key>Drivers\HfsPlus.efi</key>
+		<data>pVtf/zZXiGS6Z5LExjaccfbzW2HdWoU934WDzTbDHY8=</data>
+		<key>Drivers\OpenRuntime.efi</key>
+		<data>fpQr/qJ0WbOFSeWqhMyMtZ4ZHjcyMCy5+Fr8yDEjGw8=</data>
+		<key>Kexts\MCEReporterDisabler.kext\Contents\Info.plist</key>
+		<data>Ix2j/90J687YMqDgWrmNpI8W+E8Tj5vjBiMkppBdlMc=</data>
+		<key>Kexts\USBNet.kext\Contents\Info.plist</key>
+		<data>D242LoK5Ne+l0ZGRZ/EImc7RAv3g1OfeRCSNYB4NOB8=</data>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
