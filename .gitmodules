@@ -1,0 +1,3 @@
+[submodule "Kexts/USBNet.kext"]
+	path = Kexts/USBNet.kext
+	url = https://github.com/macOS-on-Incus/USBNet.kext.git
